@@ -1,3 +1,4 @@
 env/
 .idea/
 gemography/__pycache__/
+gemography/githubtop/__pycache__/
