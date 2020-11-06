@@ -1,4 +1,8 @@
 env/
 .idea/
+__pycache__/
+.pytest_cache/
+gemography/.idea/
 gemography/__pycache__/
 gemography/githubtop/__pycache__/
+gemography/githubtop/.pytest_cache/
